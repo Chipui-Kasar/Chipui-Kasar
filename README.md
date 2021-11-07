@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Chipui-Kasar
 - 👀 I’m interested in Ui/Front-End web Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
   Email: Chipuikasar@gmail.com
 

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chipui-Kasar
-- 👀 I’m interested in Ui/Front-End web Development
-- 🌱 Currently engaged with SPFx (Sharepoint Framework)
+- 👀 I’m interested in Full Stack web Development (Reactjs & AWS)
+- 🌱 Currently engaged with SPFx (Sharepoint Framework) and AWS
 - 📫 How to reach me 
   Email: Chipuikasar@gmail.com
 

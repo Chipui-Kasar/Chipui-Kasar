@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chipui-Kasar
-- 👀 I’m interested in SPFx development
-- 🌱 Currently engaged with SPFx (Sharepoint Framework) and AWS
+- 👀 Professional SPFx developer (SharePoint Online)
+- 🌱 Currently engaged with SPFx (Sharepoint Framework)
 - 📫 How to reach me 
   Email: Chipuikasar@gmail.com
 
